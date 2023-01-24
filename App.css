@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+.input1{
+  width: 20%;
+}
+
+.input2{
+  width: 20%;
+}
+
+.click{
+  background-color: purple;
+  width: 300px;
+}
